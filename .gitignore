@@ -1,0 +1,13 @@
+# Unreal Engine
+*.suo
+*.user
+*.userprefs
+*.log
+*.vscode
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+
+
